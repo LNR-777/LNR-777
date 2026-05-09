@@ -10,7 +10,7 @@ Most of my work is around Java, Spring Boot, REST APIs, MySQL, and building prac
 - REST APIs, JPA/Hibernate, JDBC
 - MySQL, database design, joins, indexing, query optimization
 - HTML, CSS, JavaScript, Thymeleaf, React basics
-- Git, GitHub, Postman, JUnit basics
+- Data Structures & Algorithms, problem-solving, Git, GitHub, Postman, JUnit basics
 - Learning Docker, CI/CD, cloud basics, and microservices concepts
 
 ## Projects I Like To Highlight
@@ -29,14 +29,18 @@ A personal portfolio project built with React and Vite to present my work, skill
 
 ## Right Now I'm Improving
 
+## Right Now I'm Improving
+
 - Writing cleaner Spring Boot applications
 - Building better project documentation
+- Practicing DSA and Java problem-solving
 - Practicing JavaScript and React
 - Learning Docker, CI/CD, and cloud deployment basics
+
 
 ## Contact
 
 - Email: lakhanreddy777@gmail.com
 - GitHub: https://github.com/LNR-777
 - LinkedIn: Add your LinkedIn profile link here
-- Portfolio: Add your portfolio link here
+- Portfolio: https://lnr-777.github.io/my-portfolio/
