@@ -27,7 +27,6 @@ A Java Swing and MySQL desktop project that simulates ATM features like deposit,
 ### Portfolio Website
 A personal portfolio project built with React and Vite to present my work, skills, and background.
 
-## Right Now I'm Improving
 
 ## Right Now I'm Improving
 
