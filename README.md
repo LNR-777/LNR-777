@@ -41,5 +41,5 @@ A personal portfolio project built with React and Vite to present my work, skill
 
 - Email: lakhanreddy777@gmail.com
 - GitHub: https://github.com/LNR-777
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn:https://www.linkedin.com/in/lakhan-reddy-41104024b/
 - Portfolio: https://lnr-777.github.io/my-portfolio/
